@@ -1,0 +1,6 @@
+id=smb_smart_sync_less_log
+name=SMB智能同步少日志版
+version=v1.0
+versionCode=114514
+author=Gzcheng
+description=智能同步SMB服务器照片+智能唤醒相册+同步完成后智能息屏+自动限制设备亮度&性能+自动记录日志
