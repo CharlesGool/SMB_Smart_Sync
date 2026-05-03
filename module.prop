@@ -1,6 +1,6 @@
-id=smb_smart_sync_less_log
-name=SMB智能同步少日志版
-version=v1.0
-versionCode=114514
-author=Gzcheng
-description=智能同步SMB服务器照片+智能唤醒相册+同步完成后智能息屏+自动限制设备亮度&性能+自动记录日志
+id=SMB_Smart_Sync
+name=SMB智能同步
+version=v1.1
+versionCode=20260503
+author=Charles_Gool
+description=智能同步 SMB 照相馆内容。功能：自动限频降速、唤醒 Google Photos 同步、检测 UI 进度并自动锁屏。支持全局 config 配置。
